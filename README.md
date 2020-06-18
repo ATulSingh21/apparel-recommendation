@@ -9,7 +9,6 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 We will try multiple techniques using text/title and image to recommend similar products/items
 Each product/item has 19 features in the raw dataset out of these 19 features, we will be using only 6 features
 <b>
- ul{
   <li>
 <li>asin ( Amazon standard identification number)</li>
 <li>brand ( brand to which the product belongs to )</li>
@@ -19,5 +18,4 @@ Each product/item has 19 features in the raw dataset out of these 19 features, w
 <li>title (title of the product.)</li>
 <li>formatted_price (price of the product)
     </li>
-  }
   </b>
